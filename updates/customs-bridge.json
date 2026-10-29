@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "package": "kr.kiosh.customs.bridge",
-  "versionCode": 8,
-  "versionName": "0.2.6",
-  "size": 47514132,
-  "sha256": "c92de44d459dc5ec8286cc4a550bbaca2b3b4f7889f08d60f13fbdc966234ac0",
-  "url": "https://github.com/faintstar85-source/KRS-Field-Releases/releases/download/customs-v0.2.6/Customs-Bridge-v0.2.6.apk",
-  "notes": "대량 사진을 신고서별로 정리하고 수입자 업체명을 보강했습니다. 휴지통 복구, 간결한 시작 화면, 한 줄 현황, 고정 촬영·갤러리, 작은 달력, 전체·연도별 엑셀 반출을 제공합니다."
+  "versionCode": 9,
+  "versionName": "0.2.7",
+  "size": 47517220,
+  "sha256": "fa26fa54c164b47dbe5a6bda6840455b2d5f82f59a6c47a32c88139958da5701",
+  "url": "https://github.com/faintstar85-source/KRS-Field-Releases/releases/download/customs-v0.2.7/Customs-Bridge-v0.2.7.apk",
+  "notes": "다중 사진 선택과 체크 검토, 머리글 없는 다음 장 연결, 업체명 옆 쇠사슬 묶기·취소를 추가했습니다."
 }
