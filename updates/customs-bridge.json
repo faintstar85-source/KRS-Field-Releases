@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "package": "kr.kiosh.customs.bridge",
-  "versionCode": 6,
-  "versionName": "0.2.4",
-  "size": 47454463,
-  "sha256": "93e22c3d050bd7bf6429edb0fb8bd99af63f8976c197f4d4b8b639271f87b1ad",
-  "url": "https://github.com/faintstar85-source/KRS-Field-Releases/releases/download/customs-v0.2.4/Customs-Bridge-v0.2.4.apk",
-  "notes": "앱 안에서 업데이트 확인·다운로드·설치를 지원합니다. 기존 문서와 원본사진을 유지합니다."
+  "versionCode": 7,
+  "versionName": "0.2.5",
+  "size": 47470408,
+  "sha256": "ff4feaa5f97ae85945cecfcf1ade0f22e97599144a27a00f618a2d5290907614",
+  "url": "https://github.com/faintstar85-source/KRS-Field-Releases/releases/download/customs-v0.2.5/Customs-Bridge-v0.2.5.apk",
+  "notes": "OCR 항목·란/행 연결·사진 방향 인식을 보강하고 날짜별 목록을 압축했습니다. 관세청 CI를 제거했습니다. 원본 대조 후 확정해 주세요."
 }
