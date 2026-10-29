@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "release": "customs-v0.2.6",
+  "package": "kr.kiosh.customs.bridge",
+  "versionName": "0.2.6",
+  "versionCode": 8,
+  "source_repository": "faintstar85-source/KRS-Field",
+  "source_branch": "prototype/customs-bridge-v0.2.0",
+  "source_commit": "663a86f09ae9bf58f68cce8b96f54636e3d2971e",
+  "validated_job_url": "https://github.com/faintstar85-source/KRS-Field/actions/runs/40886227529/job/123490603592",
+  "artifact_id": 12904510574,
+  "artifact_zip_sha256": "84ced44d663c298a1c1512b629d10b4675bb773a3b8e8d68bcc3a76874a087d6",
+  "apk": {
+    "name": "Customs-Bridge-v0.2.6.apk",
+    "size": 47514132,
+    "sha256": "c92de44d459dc5ec8286cc4a550bbaca2b3b4f7889f08d60f13fbdc966234ac0"
+  },
+  "validation": {
+    "android_sdk": "35",
+    "domain_ocr_passed": 70,
+    "real_ocr_fixture_skipped": 1,
+    "release_gate_tests_passed": 6,
+    "orientations_checked": [
+      0,
+      90,
+      180,
+      270
+    ],
+    "native_ocr_candidate_verified": true,
+    "native_batch_import_and_safe_insets": true,
+    "previous_to_current_preserves_data": true,
+    "same_key_update_preserves_state_and_photo": true,
+    "synthetic_grouping_photos": 240,
+    "synthetic_grouping_declarations": 60,
+    "browser_batch_photos": 61,
+    "browser_batch_declarations": 21,
+    "physical_samsung_device_tested": false,
+    "actual_28_photo_ocr_accuracy_measured": false
+  },
+  "distribution_repository_role": "Public APK distribution and provenance metadata; application source remains in the source repository above."
+}
